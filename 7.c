@@ -1,10 +1,10 @@
 #include <stdio.h>
+#include<conio.h>
 int main()
 {
     int base, exponent;
-
     long long result = 1;
-
+clrscr();
     printf("Enter a base number: ");
     scanf("%d", &base);
 
