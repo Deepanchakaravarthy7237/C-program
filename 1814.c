@@ -3,6 +3,7 @@
 int main(void) 
 {
 	int n1,n2,diff;
+	clrscr();
 	printf("enter the number1:");
 	scanf("%d",&n1);
 	printf("enter the number2:");
