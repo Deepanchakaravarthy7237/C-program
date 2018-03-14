@@ -3,6 +3,7 @@
 int main(void) 
 {
 int x,y,remainder,gcd;
+  clrscr();
 printf("\n enter the first number:");
 scanf("%d",&x);
 printf("\n enter the second number:");
