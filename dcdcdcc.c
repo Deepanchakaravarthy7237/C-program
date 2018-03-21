@@ -1,6 +1,6 @@
 #include <stdio.h>
 #include<conio.h>
-int main() 
+void main()
 {
     int n,i,count=0;
   clrscr();
@@ -20,5 +20,5 @@ int main()
     {
         printf("yes..it is composite");
     }
-	return 0;
+getch();
 }
